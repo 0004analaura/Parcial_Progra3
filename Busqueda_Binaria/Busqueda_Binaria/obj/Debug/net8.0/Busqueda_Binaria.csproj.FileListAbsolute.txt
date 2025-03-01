@@ -1,0 +1,14 @@
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\net8.0\Busqueda_Binaria.exe
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\net8.0\Busqueda_Binaria.deps.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\net8.0\Busqueda_Binaria.runtimeconfig.json
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\net8.0\Busqueda_Binaria.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\net8.0\Busqueda_Binaria.pdb
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.AssemblyInfoInputs.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.AssemblyInfo.cs
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.csproj.CoreCompileInputs.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\refint\Busqueda_Binaria.dll
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.pdb
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\Busqueda_Binaria.genruntimeconfig.cache
+C:\Users\aoliv\OneDrive\Escritorio\PROGRAMACION 3\Prograa\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\net8.0\ref\Busqueda_Binaria.dll
