@@ -5,30 +5,54 @@ class Program
 {
     static void Main()
     {
-        // Crear una cola y agregar elementos
-        Queue<int> cola = new Queue<int>();
-        cola.Enqueue(10);
-        cola.Enqueue(20);
-        cola.Enqueue(30);
-        cola.Enqueue(40);
-        cola.Enqueue(50);
+        // Crear y llenar la pila
+        Stack<int> pila = CrearPila();
 
-        // Mostrar tamaño de la cola antes de vaciarla
-        Console.WriteLine("Tamaño de la cola antes de vaciarla: " + cola.Count);
+        // Mostrar la pila antes de vaciarla
+        MostrarPila(pila);
+        Console.WriteLine($"Tamaño de la pila antes de vaciarla: {pila.Count}");
 
-        // Vaciar la cola utilizando Dequeue()
-        VaciarCola(cola);
+        // Vaciar la pila utilizando Pop()
+        VaciarPila(pila);
 
-        // Mostrar tamaño de la cola después de vaciarla
-        Console.WriteLine("Tamaño de la cola después de vaciarla: " + cola.Count);
+        // Mostrar tamaño de la pila después de vaciarla
+        Console.WriteLine($"Tamaño de la pila después de vaciarla: {pila.Count}");
+
+        // Pausar la ejecución para que el usuario vea los resultados
+        Console.WriteLine("\nPresione cualquier tecla para salir...");
+        Console.ReadKey();
+    }
+
+  
+    static Stack<int> CrearPila()
+    {
+        Stack<int> pila = new Stack<int>();
+        int[] valores = { 10, 20, 30, 40, 50 };
+
+        foreach (int valor in valores)
+        {
+            pila.Push(valor);
+        }
+
+        return pila;
+    }
+
+    static void MostrarPila(Stack<int> pila)
+    {
+        Console.Write("Elementos en la pila: ");
+        foreach (int item in pila)
+        {
+            Console.Write(item + " ");
+        }
+        Console.WriteLine("\n");
     }
 
 
-    static void VaciarCola(Queue<int> cola)
+    static void VaciarPila(Stack<int> pila)
     {
-        while (cola.Count > 0)
+        while (pila.Count > 0)
         {
-            cola.Dequeue(); // Remueve el primer elemento de la cola
+            pila.Pop(); // Remueve el elemento en la cima de la pila
         }
     }
 }
